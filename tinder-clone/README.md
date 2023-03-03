@@ -11,3 +11,10 @@ npm install @mui/material @emotion/react @emotion/styled
 npm install @mui/icons-material
 
 in the root directory of the app, i.e tinder-clone directory to use material-ui icons
+
+Run
+
+npm i react-tinder-card
+npm i @react-spring/web
+
+to download the dependecies and package for tinder-cards which will be used in TindrCards.js

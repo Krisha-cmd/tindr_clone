@@ -1,0 +1,37 @@
+.controlButtons{
+    display:flex;
+    width:100%;
+    justify-content: space-evenly;
+    position: fixed;
+    bottom: 10vh;
+
+}
+.controlButtons .MuiIconButton-root{
+    background-color: white;
+    box-shadow: 0px 18px 53px 0px rgba(0,0,0,0.3);
+}
+
+.controlButRepeat{
+    padding: 3vw;
+    color:yellow;
+}
+
+.controlButRepeat{
+    padding: 3vw;
+    color:yellow;
+}
+
+.controlButRepeat{
+    padding: 3vw;
+    color:yellow;
+}
+
+.controlButRepeat{
+    padding: 3vw;
+    color:yellow;
+}
+
+.controlButRepeat{
+    padding: 3vw;
+    color:yellow;
+}
