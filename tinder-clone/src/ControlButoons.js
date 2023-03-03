@@ -10,20 +10,20 @@ import FlashOnIcon from '@mui/icons-material/FlashOn';
 function ControlButoons() {
   return (
     <div className='controlButtons'>
-        <IconButton className='controlButRepeat'>
-            <ReplayIcon fontSize='large'/>
+        <IconButton >
+            <ReplayIcon className='controlButRepeat' fontSize='large'/>
         </IconButton>
-        <IconButton className='controlButClose'>
-            <CloseIcon fontSize='large'/>
+        <IconButton >
+            <CloseIcon className='controlButClose' fontSize='large'/>
         </IconButton>
-        <IconButton className='controlButStar'>
-            <StarRateIcon fontSize='large'/>
+        <IconButton >
+            <StarRateIcon className='controlButStar' fontSize='large'/>
         </IconButton>
-        <IconButton className='controlButFav'>
-            <FavoriteIcon fontSize='large'/>
+        <IconButton >
+            <FavoriteIcon className='controlButFav' fontSize='large'/>
         </IconButton>
-        <IconButton className='controlButFlash'>
-            <FlashOnIcon fontSize='large'/>
+        <IconButton >
+            <FlashOnIcon className='controlButFlash' fontSize='large'/>
         </IconButton>
 
     </div>

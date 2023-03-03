@@ -13,25 +13,25 @@
 
 .controlButRepeat{
     padding: 3vw;
-    color:yellow;
+    color:rgb(188, 188, 25);
 }
 
-.controlButRepeat{
+.controlButClose{
     padding: 3vw;
-    color:yellow;
+    color:rgb(152, 41, 41);
 }
 
-.controlButRepeat{
+.controlButStar{
     padding: 3vw;
-    color:yellow;
+    color:rgb(220, 171, 11);
 }
 
-.controlButRepeat{
+.controlButFav{
     padding: 3vw;
-    color:yellow;
+    color:rgb(131, 23, 91);
 }
 
-.controlButRepeat{
+.controlButFlash{
     padding: 3vw;
-    color:yellow;
+    color:rgb(222, 185, 21);
 }
